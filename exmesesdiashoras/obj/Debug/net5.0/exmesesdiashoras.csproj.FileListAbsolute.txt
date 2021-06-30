@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\exmesesdiashoras\bin\Debug\net5.0\exmesesdiashoras.exe
+C:\Users\Dev\Desktop\exmesesdiashoras\bin\Debug\net5.0\exmesesdiashoras.deps.json
+C:\Users\Dev\Desktop\exmesesdiashoras\bin\Debug\net5.0\exmesesdiashoras.runtimeconfig.json
+C:\Users\Dev\Desktop\exmesesdiashoras\bin\Debug\net5.0\exmesesdiashoras.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\exmesesdiashoras\bin\Debug\net5.0\exmesesdiashoras.dll
+C:\Users\Dev\Desktop\exmesesdiashoras\bin\Debug\net5.0\ref\exmesesdiashoras.dll
+C:\Users\Dev\Desktop\exmesesdiashoras\bin\Debug\net5.0\exmesesdiashoras.pdb
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.AssemblyInfo.cs
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.dll
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\ref\exmesesdiashoras.dll
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.pdb
+C:\Users\Dev\Desktop\exmesesdiashoras\obj\Debug\net5.0\exmesesdiashoras.genruntimeconfig.cache

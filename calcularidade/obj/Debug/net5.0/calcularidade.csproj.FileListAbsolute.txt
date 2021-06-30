@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\calcularidade\bin\Debug\net5.0\calcularidade.exe
+C:\Users\Dev\Desktop\calcularidade\bin\Debug\net5.0\calcularidade.deps.json
+C:\Users\Dev\Desktop\calcularidade\bin\Debug\net5.0\calcularidade.runtimeconfig.json
+C:\Users\Dev\Desktop\calcularidade\bin\Debug\net5.0\calcularidade.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\calcularidade\bin\Debug\net5.0\calcularidade.dll
+C:\Users\Dev\Desktop\calcularidade\bin\Debug\net5.0\ref\calcularidade.dll
+C:\Users\Dev\Desktop\calcularidade\bin\Debug\net5.0\calcularidade.pdb
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.AssemblyInfo.cs
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.dll
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\ref\calcularidade.dll
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.pdb
+C:\Users\Dev\Desktop\calcularidade\obj\Debug\net5.0\calcularidade.genruntimeconfig.cache
